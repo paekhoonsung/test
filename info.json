@@ -1,9 +1,13 @@
 {
 	"id": "hspaek",
 	"join_date": "2022",
-	"organization": "\ud50c\ub7ab\ud3fc\uc0ac\uc5c5\ubcf8\ubd80_BI\uc5f0\uad6c\uc18c_\ub9c8\ucf00\ud305\ud50c\ub7ab\ud3fc\uadf8\ub8f9_GMP\ud300",
-	"superior officer1": "\uc7a5\uae30\uc218",
-	"superior officer2": "\uae40\uc7ac\ud601",
-	"superior officer3": "\ud5e4\ub871\uc774",
-	"superior officer4": "\ub618\ub9cc\uc774"
+	"organization": "플랫폼사업본부_BI연구소_마케팅플랫폼그룹_GMP팀",	
+	"superior officer1": "장기수",
+	"email1": "hellohoon@naver.com",
+	"superior officer2": "김선수",
+	"email2": "hellohoon@naver.com",
+	"superior officer3": "헤롱이",
+	"email3": "hellohoon@naver.com",
+	"superior officer4": "똘만이"
+	"email4": "hellohoon@naver.com"
 }
